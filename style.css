@@ -57,6 +57,7 @@ body
     padding: 10px 20px;
     font-size: 15px;
     border: none;
+    cursor: pointer;
 }
 
 .boutons button:hover
@@ -148,6 +149,7 @@ body
     font-size: 15px;
     color: #fff;
     border: none;
+    cursor: pointer;
 }
 
 .prix button:hover
